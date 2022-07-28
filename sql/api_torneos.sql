@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS api_torneos;
+
+CREATE DATABASE IF NOT EXISTS api_torneos CHARACTER SET "utf8" COLLATE "utf8_spanish2_ci";
